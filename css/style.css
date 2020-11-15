@@ -1,0 +1,27 @@
+/* CHAGING THE COLOR OF THE ENTIRE PAGE BACKGROUND */
+  body{
+background-color: #EAF6F6;
+  }
+
+/* PUTTING  A DOTTED LINE HORIZONTAL RULE IN THE Page */
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5PX;
+    width: 20%;
+
+  }
+
+h1{
+  color: #66bfbf; text-align: center;
+}
+h2{
+  color: #66bfbf; text-align: center;
+}
+  h3 {
+    color: #66bfbf
+  }
+  a:link{
+    color: red;
+  }
